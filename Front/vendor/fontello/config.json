@@ -1,0 +1,76 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "b90868gfogj970a1g0dnot6hm5r4uj55",
+      "css": "comment",
+      "code": 59397,
+      "src": "typicons"
+    },
+    {
+      "uid": "2a58da2238c31ffa3ff4dac966c2dc99",
+      "css": "attention",
+      "code": 59398,
+      "src": "typicons"
+    },
+    {
+      "uid": "okc52fdxu9uz2wnl0awdtv5373is429s",
+      "css": "volume-high",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "12d16dda691bda304e3b57d7bc0de5a9",
+      "css": "lightbulb",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "ec3be32c1330a17ef251b378ebd7d3ac",
+      "css": "left-outline",
+      "code": 59402,
+      "src": "typicons"
+    },
+    {
+      "uid": "86bc84e014767f8f1377723c47d1b153",
+      "css": "right-outline",
+      "code": 59401,
+      "src": "typicons"
+    },
+    {
+      "uid": "gz5flrq210wzbyafnerm4e0aublo7qwb",
+      "css": "mobile",
+      "code": 59399,
+      "src": "typicons"
+    },
+    {
+      "uid": "7d6302991626c252d089d14dc760fc37",
+      "css": "moon",
+      "code": 59400,
+      "src": "typicons"
+    },
+    {
+      "uid": "9bd0a2540c17de10023e5e8ca3e64da5",
+      "css": "waves-outline",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "5c49851100aa021825b346d16d7f3abf",
+      "css": "temperatire",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "a55e4173e388989f16afd373b894a9f4",
+      "css": "chart-alt-outline",
+      "code": 59396,
+      "src": "typicons"
+    }
+  ]
+}
