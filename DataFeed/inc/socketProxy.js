@@ -5,7 +5,7 @@
 
 if ('WebSocket' in window){
 
-    var connection = new WebSocket('ws://127.0.0.1:1337');
+    var connection = new WebSocket('ws://zurich.pr0xi.com:1337');
     connection.onopen = function(){
         /*Send a small message to the console once the connection is established */
         console.log('Connection open!');
